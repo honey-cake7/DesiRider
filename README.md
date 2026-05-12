@@ -8,7 +8,6 @@
 2. Sumit Kumar 124cs0085
 3. Ankur Dhanraj 124cs0087
 4. Lakshya Patidar 524cs0008
-   Course project submission built in Godot.
 
 Desi Rider is a 2D physics-based offroad driving game where the player tries to travel as far as possible while collecting score items and managing nitro. The project focuses on core game-programming concepts such as procedural generation, physics interaction, UI state flow, and persistence of player settings.
 
